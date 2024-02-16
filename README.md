@@ -1,2 +1,3 @@
-# cv_website
-personal website
+This is the source code of my personal website. You can checkout the live deployment of the website at https://katchie.fast-page.org. 
+
+Note that due to the fact that https://katchie.fast-page.org is hosted on a free web hosting service, there may be a downtime (generally reduced server performance); thus, you may need to reload it. However, none of these issues have anything to do with the efficiency/correctness of the source code.
